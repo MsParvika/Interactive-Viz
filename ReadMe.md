@@ -1,4 +1,5 @@
-The repository contains my visualisations for Tennis data (not meant to be copied). 
+## The repository contains my visualisations for Tennis data 
+**_(not meant to be copied)_**
 
 It would need a server to run it, as js file reads data from another source. You can get the by any of the following:
 
@@ -15,4 +16,5 @@ Run it
 Download the project and run it on your localhost
 
 4.Install LAMP or XAMPP Software
+Go through the respective software instructions to run a local server
 
