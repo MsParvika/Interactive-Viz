@@ -19,3 +19,6 @@ It would need a server to run it, as js file reads data from another source. You
 4.Install LAMP or XAMPP Software
 - Go through the respective software instructions to run a local server
 
+
+Run Index.html file.
+
